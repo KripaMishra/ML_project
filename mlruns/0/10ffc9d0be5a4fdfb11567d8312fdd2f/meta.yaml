@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kripa/Desktop/Krish%20p2/ML_project/mlruns/0/10ffc9d0be5a4fdfb11567d8312fdd2f/artifacts
+end_time: 1697649720451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10ffc9d0be5a4fdfb11567d8312fdd2f
+run_name: gregarious-lamb-356
+run_uuid: 10ffc9d0be5a4fdfb11567d8312fdd2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697649720376
+status: 4
+tags: []
+user_id: kripa

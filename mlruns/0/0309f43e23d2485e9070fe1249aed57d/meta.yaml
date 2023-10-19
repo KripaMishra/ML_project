@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kripa/Desktop/Krish%20p2/ML_project/mlruns/0/0309f43e23d2485e9070fe1249aed57d/artifacts
+end_time: 1697649801345
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0309f43e23d2485e9070fe1249aed57d
+run_name: upset-cow-758
+run_uuid: 0309f43e23d2485e9070fe1249aed57d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697649801304
+status: 4
+tags: []
+user_id: kripa
