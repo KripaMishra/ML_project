@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kripa/Desktop/Krish%20p2/ML_project/mlruns/0/8f548cdd91824a70a01a7915651970ff/artifacts
+end_time: 1697703005606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f548cdd91824a70a01a7915651970ff
+run_name: amazing-shrew-950
+run_uuid: 8f548cdd91824a70a01a7915651970ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697703002108
+status: 3
+tags: []
+user_id: kripa

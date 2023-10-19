@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kripa/Desktop/Krish%20p2/ML_project/mlruns/0/e8e6441514274960af25dfc0b3f01d2e/artifacts
+end_time: 1697702812621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8e6441514274960af25dfc0b3f01d2e
+run_name: luxuriant-mink-17
+run_uuid: e8e6441514274960af25dfc0b3f01d2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697702812569
+status: 4
+tags: []
+user_id: kripa
